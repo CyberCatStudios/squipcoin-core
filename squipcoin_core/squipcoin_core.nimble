@@ -11,3 +11,4 @@ bin           = @["squipcoin_core"]
 # Dependencies
 
 requires "nim >= 2.2.10"
+requires "mummy"
